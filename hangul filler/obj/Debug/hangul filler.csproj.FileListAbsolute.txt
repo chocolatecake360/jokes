@@ -1,0 +1,12 @@
+D:\SELiM\Klasorlerim\vscode\hangul filler\bin\Debug\hangul filler.exe.config
+D:\SELiM\Klasorlerim\vscode\hangul filler\bin\Debug\hangul filler.exe
+D:\SELiM\Klasorlerim\vscode\hangul filler\bin\Debug\hangul filler.pdb
+D:\SELiM\Klasorlerim\vscode\hangul filler\obj\Debug\hangul filler.csproj.AssemblyReference.cache
+D:\SELiM\Klasorlerim\vscode\hangul filler\obj\Debug\hangul_filler.enough.resources
+D:\SELiM\Klasorlerim\vscode\hangul filler\obj\Debug\hangul_filler.Form1.resources
+D:\SELiM\Klasorlerim\vscode\hangul filler\obj\Debug\hangul_filler.goodnight.resources
+D:\SELiM\Klasorlerim\vscode\hangul filler\obj\Debug\hangul_filler.Properties.Resources.resources
+D:\SELiM\Klasorlerim\vscode\hangul filler\obj\Debug\hangul filler.csproj.GenerateResource.cache
+D:\SELiM\Klasorlerim\vscode\hangul filler\obj\Debug\hangul filler.csproj.CoreCompileInputs.cache
+D:\SELiM\Klasorlerim\vscode\hangul filler\obj\Debug\hangul filler.exe
+D:\SELiM\Klasorlerim\vscode\hangul filler\obj\Debug\hangul filler.pdb
