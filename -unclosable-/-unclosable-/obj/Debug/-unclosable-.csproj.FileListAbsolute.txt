@@ -1,0 +1,12 @@
+D:\SELiM\Klasorlerim\vscode\-unclosable-\-unclosable-\bin\Debug\-unclosable-.exe.config
+D:\SELiM\Klasorlerim\vscode\-unclosable-\-unclosable-\bin\Debug\-unclosable-.exe
+D:\SELiM\Klasorlerim\vscode\-unclosable-\-unclosable-\bin\Debug\-unclosable-.pdb
+D:\SELiM\Klasorlerim\vscode\-unclosable-\-unclosable-\obj\Debug\-unclosable-.csproj.AssemblyReference.cache
+D:\SELiM\Klasorlerim\vscode\-unclosable-\-unclosable-\obj\Debug\_unclosable_.Form1.resources
+D:\SELiM\Klasorlerim\vscode\-unclosable-\-unclosable-\obj\Debug\_unclosable_.Properties.Resources.resources
+D:\SELiM\Klasorlerim\vscode\-unclosable-\-unclosable-\obj\Debug\-unclosable-.csproj.GenerateResource.cache
+D:\SELiM\Klasorlerim\vscode\-unclosable-\-unclosable-\obj\Debug\-unclosable-.csproj.CoreCompileInputs.cache
+D:\SELiM\Klasorlerim\vscode\-unclosable-\-unclosable-\obj\Debug\-unclosable-.exe
+D:\SELiM\Klasorlerim\vscode\-unclosable-\-unclosable-\obj\Debug\-unclosable-.pdb
+D:\SELiM\Klasorlerim\vscode\-unclosable-\-unclosable-\obj\Debug\_unclosable_.Form2.resources
+D:\SELiM\Klasorlerim\vscode\-unclosable-\-unclosable-\obj\Debug\_unclosable_.Form3.resources
