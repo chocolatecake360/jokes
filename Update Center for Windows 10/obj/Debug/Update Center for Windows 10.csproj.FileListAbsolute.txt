@@ -1,0 +1,12 @@
+D:\SELiM\Klasorlerim\vscode\Update Center for Windows 10\bin\Debug\Update Center for Windows 10.exe.config
+D:\SELiM\Klasorlerim\vscode\Update Center for Windows 10\bin\Debug\Update Center for Windows 10.exe
+D:\SELiM\Klasorlerim\vscode\Update Center for Windows 10\bin\Debug\Update Center for Windows 10.pdb
+D:\SELiM\Klasorlerim\vscode\Update Center for Windows 10\obj\Debug\Update Center for Windows 10.csproj.AssemblyReference.cache
+D:\SELiM\Klasorlerim\vscode\Update Center for Windows 10\obj\Debug\Update_Center_for_Windows_10.Form1.resources
+D:\SELiM\Klasorlerim\vscode\Update Center for Windows 10\obj\Debug\Update_Center_for_Windows_10.Form2.resources
+D:\SELiM\Klasorlerim\vscode\Update Center for Windows 10\obj\Debug\Update_Center_for_Windows_10.Properties.Resources.resources
+D:\SELiM\Klasorlerim\vscode\Update Center for Windows 10\obj\Debug\Update Center for Windows 10.csproj.GenerateResource.cache
+D:\SELiM\Klasorlerim\vscode\Update Center for Windows 10\obj\Debug\Update Center for Windows 10.csproj.CoreCompileInputs.cache
+D:\SELiM\Klasorlerim\vscode\Update Center for Windows 10\obj\Debug\Update Center for Windows 10.exe
+D:\SELiM\Klasorlerim\vscode\Update Center for Windows 10\obj\Debug\Update Center for Windows 10.pdb
+D:\SELiM\Klasorlerim\vscode\Update Center for Windows 10\obj\Debug\Update_Center_for_Windows_10.Form3.resources
